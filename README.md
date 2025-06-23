@@ -19,5 +19,5 @@ This is a simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 ## Project Structure
 
 index.html → Structure of the game
-styles.css → Styling the grid and layout
-script.js → Game logic and interactions
+-styles.css → Styling the grid and layout
+-script.js → Game logic and interactions
